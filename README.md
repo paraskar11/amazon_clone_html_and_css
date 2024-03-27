@@ -16,7 +16,8 @@ navigation.
 the cart contents, update quantities, and remove items.
 • Checkout Process Simulation: Guide users through a simulated checkout 
 process, including entering shipping details and payment information.
-Technologies Used
+
+Technologies Used :
 • HTML: Markup language for structuring the web page.
 • CSS: Styling language for designing the appearance of the web page.
 
