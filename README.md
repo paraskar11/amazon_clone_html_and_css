@@ -1,6 +1,6 @@
 Amazon Clone Project
 Overview :
-This project is an Amazon clone implemented using HTML and CSS. It aims to 
+This project is an Amazon clone(frontend) implemented using HTML and CSS. It aims to 
 replicate the basic functionalities and design elements of the Amazon website, 
 providing users with a familiar shopping experience. The clone includes features such 
 as product listings, search functionality, cart management, and checkout process 
